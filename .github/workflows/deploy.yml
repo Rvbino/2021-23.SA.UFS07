@@ -2,8 +2,7 @@ name: Deploy on Surge .sh
 on:
   push:
     tags: 
-      - v** 
-  workflow_call:
+      - v**
 jobs:
   build:
     uses: ./.github/workflows/github-actions-demo.yml
