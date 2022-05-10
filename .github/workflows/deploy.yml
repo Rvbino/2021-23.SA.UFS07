@@ -11,7 +11,7 @@ jobs:
     needs: [build]
     steps:
       - name: download a single artifact
-        uses: action/download-artifact@v3
+        uses: actions/download-artifact@v3
         with:
           name: ${{github.ref_name}}-${{github.sha}}
           path: dist
