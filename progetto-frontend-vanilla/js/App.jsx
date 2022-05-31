@@ -1,5 +1,5 @@
 import React from "react";
-import {Button} from "/atoms/button/Button"
+import {Button} from "qualcosa/atoms/button/Button"
 
 const App = () => ( 
     <div>
