@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/Rvbino/2021-23.SA.UFS07/compare/v1.8.0...v1.9.0) (2022-06-06)
+
+
+### Features
+
+* feat ([c989aef](https://github.com/Rvbino/2021-23.SA.UFS07/commit/c989aef96c1ca8d47ccf07d71e7bdd62a9d4bdc5))
+
 ## [1.8.0](https://github.com/Rvbino/2021-23.SA.UFS07/compare/v1.7.0...v1.8.0) (2022-06-06)
 
 
